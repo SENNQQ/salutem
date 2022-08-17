@@ -3,3 +3,5 @@
 /static/
 /.idea/
 /salutem/static/media/photos/
+/database
+/node_modules
